@@ -1,6 +1,6 @@
 
 {
-  "name": "mysqlhomework",
+  "name": "hw12",
   "version": "1.0.0",
   "description": "An Amazon like storefront using Node and MySQL",
   "main": "BamazonCustomer.js",
