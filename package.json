@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevingraber/Homework-12-MySQL.git"
+    "url": "git+https://github.com/peterpeterhaha/hw12.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kevingraber/Homework-12-MySQL/issues"
+    "url": "https://github.com/peterpeterhaha/hw12/issues"
   },
-  "homepage": "https://github.com/kevingraber/Homework-12-MySQL#readme",
+  "homepage": "https://github.com/peterpeterhaha/hw12#readme",
   "dependencies": {
     "cli-table": "^0.3.1",
     "mysql": "^2.10.2",
