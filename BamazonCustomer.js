@@ -12,8 +12,8 @@ var connection = mysql.createConnection({
 connection.connect();
 prompt.start();
 
-console.log("Welcome to Epic Arms!");
-console.log("We used to sell this stuff");
+console.log("Welcome to the Smelly Palace!");
+console.log("We make this stuff right here!");
 
 // Selecting everything from the products table.
 connection.query('SELECT * FROM products', function(err, rows) {
